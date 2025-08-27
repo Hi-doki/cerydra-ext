@@ -1,0 +1,21 @@
+{
+  "name": "cerydra",
+  "displayName": "Cerydra",
+  "description": "A very cool blue theme based on the hsr character Cerydra :3",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cerydra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cerydra-color-theme.json"
+      }
+    ]
+  }
+}
