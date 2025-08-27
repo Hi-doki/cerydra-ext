@@ -2,7 +2,7 @@
   "name": "cerydra",
   "displayName": "Cerydra",
   "description": "A very cool blue theme based on the hsr character Cerydra :3",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -12,6 +12,7 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "Michii",
   "contributes": {
     "themes": [
       {
