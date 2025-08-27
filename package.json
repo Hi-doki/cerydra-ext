@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.103.0"
   },
+  "repository": {
+    "url": "https://github.com/hi-doki/cerydra"
+  },
   "categories": [
     "Themes"
   ],
